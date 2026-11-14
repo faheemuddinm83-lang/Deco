@@ -1,0 +1,6 @@
+{
+  "name": "DECO Exam Studio",
+  "description": "UG Digital Electronics and Computer Organization 5-unit exam notes, line-separated important topics, Google Drive folder sync, and interactive digital logic tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
